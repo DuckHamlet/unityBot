@@ -11,7 +11,7 @@ public class PlayerMoves : MonoBehaviour
         
     }
 
-    // Update is called once per frame
+    // Update is called once per frame GOGO
     void Update()
     {
         // Returns a float from -1.0 to +1.0
